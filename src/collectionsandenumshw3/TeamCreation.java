@@ -17,7 +17,7 @@ import java.util.Set;
 /**
  *
  * @author Volkan Tibet Tuylu -2022395
- * GitHub : 
+ * GitHub : https://github.com/2022395/CollectionsAndEnumsHW3
  */
 public class TeamCreation {
      public static void main(String[] args) {
